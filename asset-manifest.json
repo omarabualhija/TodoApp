@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TodoApp/static/css/main.4caad7f4.chunk.css",
+    "main.js": "/TodoApp/static/js/main.1ac7676b.chunk.js",
+    "main.js.map": "/TodoApp/static/js/main.1ac7676b.chunk.js.map",
+    "runtime-main.js": "/TodoApp/static/js/runtime-main.0013790c.js",
+    "runtime-main.js.map": "/TodoApp/static/js/runtime-main.0013790c.js.map",
+    "static/js/2.b7651c8d.chunk.js": "/TodoApp/static/js/2.b7651c8d.chunk.js",
+    "static/js/2.b7651c8d.chunk.js.map": "/TodoApp/static/js/2.b7651c8d.chunk.js.map",
+    "static/js/3.e7f7276d.chunk.js": "/TodoApp/static/js/3.e7f7276d.chunk.js",
+    "static/js/3.e7f7276d.chunk.js.map": "/TodoApp/static/js/3.e7f7276d.chunk.js.map",
+    "index.html": "/TodoApp/index.html",
+    "static/css/main.4caad7f4.chunk.css.map": "/TodoApp/static/css/main.4caad7f4.chunk.css.map",
+    "static/js/2.b7651c8d.chunk.js.LICENSE.txt": "/TodoApp/static/js/2.b7651c8d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TodoApp/static/media/blank-notepad-text-autumn-layout-with-physalis-pine-cones-leaves-rowan.db39472f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0013790c.js",
+    "static/js/2.b7651c8d.chunk.js",
+    "static/css/main.4caad7f4.chunk.css",
+    "static/js/main.1ac7676b.chunk.js"
+  ]
+}
